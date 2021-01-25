@@ -2,3 +2,26 @@
   font-family: sans-serif;
   text-align: center;
 }
+
+.container {
+  text-align: -webkit-center;
+}
+
+h1 {
+  color: #456a6e;
+}
+
+.footer {
+  padding-top: 23px;
+  border-top: 5px solid #e9f1e2;
+  width: 50%;
+}
+
+a {
+  background-image: linear-gradient(to right, #a1db95, #34cda9);
+  color: #fff;
+  padding: 10px;
+  border-radius: 20px;
+  text-decoration: none;
+  cursor: pointer;
+}
